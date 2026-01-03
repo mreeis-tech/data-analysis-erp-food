@@ -1,0 +1,7 @@
+id,data_hora,tipo_problema,sistema,tempo_resolucao_min,prioridade
+1,2025-09-01 10:23,Erro Fiscal,PDV,45,Alta
+2,2025-09-01 11:05,Integração Delivery,Hub,120,Alta
+3,2025-09-01 12:10,Instabilidade,PDV,30,Média
+4,2025-09-02 09:40,Erro Fiscal,PDV,60,Alta
+5,2025-09-02 14:15,Configuração,Retaguarda,25,Baixa
+6,2025-09-03 18:20,Instabilidade,PDV,90,Alta
