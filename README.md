@@ -34,6 +34,11 @@ Formato: CSV
 - Horários de pico
 - Sistemas mais impactados
 - Tempo médio de resolução (SLA)
+---
+### 🧮 Análises com SQL
+As análises foram realizadas utilizando consultas SQL
+para identificar padrões operacionais, gargalos de SLA
+e oportunidades de melhoria no produto.
 
 ---
 
